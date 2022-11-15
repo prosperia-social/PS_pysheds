@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-setup(name='pysheds',
+setup(name='ProsperiaPysheds',
       version='0.3.3',
       description='🌎 Simple and fast watershed delineation in python.',
       author='Matt Bartos',
