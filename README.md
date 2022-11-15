@@ -5,6 +5,8 @@
 
 Read the docs [here 📖](https://mdbartos.github.io/pysheds).
 
+This fork allows to run RFSM (which has bugs making it unable to run on mdbartos's version).
+
 ## Media
 
 *Hatari Labs* - [Elevation model conditioning and stream network delineation with python and pysheds](https://www.hatarilabs.com/ih-en/elevation-model-conditioning-and-stream-network-delimitation-with-python-and-pysheds-tutorial) <sup>:uk:</sup>
